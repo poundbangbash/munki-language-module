@@ -57,6 +57,7 @@
         <string>developer</string>
         <string>development</string>
         <string>display_name</string>
+        <string>enabled</string>
         <string>filename</string>
         <string>force_install_after_date</string>
         <string>forced_install</string>
@@ -132,6 +133,13 @@
         <string>user</string>
         <string>version_comparison_key</string>
         <string>version</string>
+        <string>visible</string>
+        <string>RequireShutdown</string>
+        <string>RequireRestart</string>
+        <string>RecommendRestart</string>
+        <string>RequireLogout</string>
+        <string>None</string>
+        <string>selected</string>
 	</array>
 	<key>BBLMKeywordList</key>
 	<array>

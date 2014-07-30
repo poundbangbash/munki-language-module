@@ -28,7 +28,16 @@
 	<key>BBLMPredefinedNameList</key>
 	<array>
         <string>_metadata</string>
+        <string>644</string>
+        <string>755</string>
+        <string>775</string>
+        <string>admin</string>
+        <string>adobeacrobatupdater</string>
+        <string>adobecs5aameepackage</string>
+        <string>adobecs5patchinstaller</string>
+        <string>adobesetup</string>
         <string>AdobeSetupType</string>
+        <string>adobeuberinstaller</string>
         <string>attributeSetting</string>
         <string>autoremove</string>
         <string>blocking_applications</string>
@@ -39,30 +48,35 @@
         <string>CFBundleShortVersionString</string>
         <string>choiceAttribute</string>
         <string>choiceIdentifier</string>
+        <string>copy_from_dmg</string>
         <string>created_by</string>
         <string>creation_date</string>
         <string>description</string>
         <string>destination_item</string>
         <string>destination_path</string>
         <string>developer</string>
+        <string>development</string>
         <string>display_name</string>
         <string>filename</string>
         <string>force_install_after_date</string>
         <string>forced_install</string>
         <string>forced_uninstall</string>
+        <string>go-w</string>
         <string>group</string>
         <string>icon_name</string>
         <string>installable_condition</string>
         <string>installcheck_script</string>
+        <string>installed_size</string>
         <string>installer_choices_xml</string>
-        <string>installed_size</string>
-        <string>installed_size</string>
+        <string>installer_environment</string>
         <string>installer_item_hash</string>
         <string>installer_item_location</string>
         <string>installer_item_size</string>
         <string>installer_type</string>
+        <string>installs_via_copy_from_dmg.applescript</string>
         <string>installs</string>
         <string>installxml</string>
+        <string>items_to_copy</string>
         <string>maximum_os_version</string>
         <string>md5checksum</string>
         <string>media_digest</string>
@@ -73,14 +87,15 @@
         <string>mode</string>
         <string>munki_version</string>
         <string>name</string>
-        <string>name</string>
+        <string>nopkg</string>
         <string>notes</string>
         <string>optional</string>
         <string>os_version</string>
+        <string>owner</string>
         <string>package_path</string>
-        <string>PackageCompleteURL</string>
+        <string>packagecompleteurl</string>
         <string>packageid</string>
-        <string>PackageURL</string>
+        <string>packageurl</string>
         <string>path</string>
         <string>payload_count</string>
         <string>payloads</string>
@@ -88,16 +103,22 @@
         <string>postuninstall_script</string>
         <string>preinstall_script</string>
         <string>preuninstall_script</string>
+        <string>production</string>
         <string>receipts</string>
+        <string>remove_copied_items</string>
+        <string>removepackages</string>
+        <string>requirelogout</string>
+        <string>requirerestart</string>
         <string>requires</string>
-        <string>requires</string>
-        <string>RestartAction</string>
+        <string>restartaction</string>
+        <string>root</string>
         <string>serialnumber</string>
         <string>source_item</string>
         <string>supported_architectures</string>
         <string>suppress_bundle_relocation</string>
         <string>suppress_registration</string>
         <string>suppress_updates</string>
+        <string>testing</string>
         <string>type</string>
         <string>unattended_install</string>
         <string>unattended_uninstall</string>
@@ -109,6 +130,7 @@
         <string>uninstallxml</string>
         <string>update_for</string>
         <string>user</string>
+        <string>version
         <string>version_comparison_key</string>
         <string>version</string>
 	</array>

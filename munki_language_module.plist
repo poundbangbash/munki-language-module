@@ -33,6 +33,7 @@
         <string>autoremove</string>
         <string>blocking_applications</string>
         <string>catalogs</string>
+        <string>category</string>
         <string>CFBundleIdentifier</string>
         <string>CFBundleName</string>
         <string>CFBundleShortVersionString</string>
@@ -43,20 +44,24 @@
         <string>description</string>
         <string>destination_item</string>
         <string>destination_path</string>
+        <string>developer</string>
         <string>display_name</string>
         <string>filename</string>
         <string>force_install_after_date</string>
         <string>forced_install</string>
         <string>forced_uninstall</string>
         <string>group</string>
+        <string>icon_name</string>
         <string>installable_condition</string>
         <string>installcheck_script</string>
+        <string>installer_choices_xml</string>
         <string>installed_size</string>
         <string>installed_size</string>
         <string>installer_item_hash</string>
         <string>installer_item_location</string>
         <string>installer_item_size</string>
         <string>installer_type</string>
+        <string>installs</string>
         <string>installxml</string>
         <string>maximum_os_version</string>
         <string>md5checksum</string>

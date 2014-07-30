@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+  TextWrangler munki pkgsinfo Codeless Language Module.
+  Information on customizing this file can be found at http://www.barebones.com/support/develop/clm.html
+  
+  This module is set to treat all files that end in .plist as munki pkgsinfo files.  
+  If you want to disable that and have standard XML highlighting remove the BBLMSuffixMap key below.
+  You can manually choose the language syntax highlighting from the options at the bottom of the TextWrangler window.  Choose "Munki Pkgsinfo" to apply the highlighting.
+  
+  
+  To install:
+    Copy the munki_langauage_module.plist to ~/Library/Application Support/TextWrangler/Language Modules/ 
+    Restart TextWrangler.
+    Adjust keyword and predefined syntax highlighting in the TextWrangler preferences.
+    
+    
+    -->
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMPredefinedNameList</key>
+	<array>
+        <string>_metadata</string>
+        <string>AdobeSetupType</string>
+        <string>attributeSetting</string>
+        <string>autoremove</string>
+        <string>blocking_applications</string>
+        <string>catalogs</string>
+        <string>CFBundleIdentifier</string>
+        <string>CFBundleName</string>
+        <string>CFBundleShortVersionString</string>
+        <string>choiceAttribute</string>
+        <string>choiceIdentifier</string>
+        <string>created_by</string>
+        <string>creation_date</string>
+        <string>description</string>
+        <string>destination_item</string>
+        <string>destination_path</string>
+        <string>display_name</string>
+        <string>filename</string>
+        <string>force_install_after_date</string>
+        <string>forced_install</string>
+        <string>forced_uninstall</string>
+        <string>group</string>
+        <string>installable_condition</string>
+        <string>installcheck_script</string>
+        <string>installed_size</string>
+        <string>installed_size</string>
+        <string>installer_item_hash</string>
+        <string>installer_item_location</string>
+        <string>installer_item_size</string>
+        <string>installer_type</string>
+        <string>installxml</string>
+        <string>maximum_os_version</string>
+        <string>md5checksum</string>
+        <string>media_digest</string>
+        <string>media_signature</string>
+        <string>minimum_munki_version</string>
+        <string>minimum_os_version</string>
+        <string>minosversion</string>
+        <string>mode</string>
+        <string>munki_version</string>
+        <string>name</string>
+        <string>name</string>
+        <string>notes</string>
+        <string>optional</string>
+        <string>os_version</string>
+        <string>package_path</string>
+        <string>PackageCompleteURL</string>
+        <string>packageid</string>
+        <string>PackageURL</string>
+        <string>path</string>
+        <string>payload_count</string>
+        <string>payloads</string>
+        <string>postinstall_script</string>
+        <string>postuninstall_script</string>
+        <string>preinstall_script</string>
+        <string>preuninstall_script</string>
+        <string>receipts</string>
+        <string>requires</string>
+        <string>requires</string>
+        <string>RestartAction</string>
+        <string>serialnumber</string>
+        <string>source_item</string>
+        <string>supported_architectures</string>
+        <string>suppress_bundle_relocation</string>
+        <string>suppress_registration</string>
+        <string>suppress_updates</string>
+        <string>type</string>
+        <string>unattended_install</string>
+        <string>unattended_uninstall</string>
+        <string>uninstall_method</string>
+        <string>uninstall_script</string>
+        <string>uninstallable</string>
+        <string>uninstallcheck_script</string>
+        <string>uninstaller_item_location</string>
+        <string>uninstallxml</string>
+        <string>update_for</string>
+        <string>user</string>
+        <string>version_comparison_key</string>
+        <string>version</string>
+	</array>
+	<key>BBLMKeywordList</key>
+	<array>
+	    <string>key</string>
+	    <string>dict</string>
+	    <string>array</string>
+	    <string>string</string>
+	    <string>integer</string>
+	    <string>date</string>
+	    <string>plist</string>
+	</array>
+	<key>BBLMLanguageCode</key>
+	<string>MkPi</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>Munki Pkgsinfo</string>
+	<key>BBLMScansFunctions</key>
+	<true/>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.plist</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Identifier and Keyword Character Class</key>
+		<string>A-Za-z0-9_-</string>
+		<key>Identifier and Keyword Characters</key>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz^-_./</string>
+	</dict>
+</dict>
+</plist>

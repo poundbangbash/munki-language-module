@@ -5,10 +5,11 @@ Language Module for use with TextWrangler or BBEdit to syntax highlight Munki's 
 
 This will syntax highlight Munki's supported keys to visually validate proper syntax when hand editing files.
 
-To install:
-    Copy the munki_langauage_module.plist to ~/Library/Application Support/TextWrangler/Language Modules/ 
-    Restart TextWrangler.
-    Adjust keyword and predefined syntax highlighting colors in the TextWrangler preferences if necessary.
+To install:<br>
+1) Copy the munki_langauage_module.plist to ~/Library/Application Support/TextWrangler/Language Modules/ <br>
+2) Restart TextWrangler. <br>
+3) Adjust keyword and predefined syntax highlighting colors in the TextWrangler preferences if necessary.<br>
+
 
 This module is set to treat all files that end in .plist as munki pkgsinfo files.  
 If that is not desirable and you'd rather have standard XML highlighting, then remove the BBLMSuffixMap key from the plist.

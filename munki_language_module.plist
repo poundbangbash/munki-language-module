@@ -38,6 +38,7 @@
         <string>adobesetup</string>
         <string>AdobeSetupType</string>
         <string>adobeuberinstaller</string>
+        <string>apple_item</string>
         <string>attributeSetting</string>
         <string>autoremove</string>
         <string>blocking_applications</string>
@@ -102,7 +103,9 @@
         <string>payloads</string>
         <string>postinstall_script</string>
         <string>postuninstall_script</string>
+        <string>preinstall_alert</string>
         <string>preinstall_script</string>
+        <string>preuninstall_alert</string>
         <string>preuninstall_script</string>
         <string>production</string>
         <string>receipts</string>

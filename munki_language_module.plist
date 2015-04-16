@@ -91,6 +91,7 @@
         <string>name</string>
         <string>nopkg</string>
         <string>notes</string>
+        <string>OnDemand</string>
         <string>optional</string>
         <string>os_version</string>
         <string>owner</string>

@@ -38,10 +38,13 @@
         <string>adobesetup</string>
         <string>AdobeSetupType</string>
         <string>adobeuberinstaller</string>
+        <string>alert_detail</string>
+        <string>alert_title</string>
         <string>apple_item</string>
         <string>attributeSetting</string>
         <string>autoremove</string>
         <string>blocking_applications</string>
+        <string>cancel_label</string>
         <string>catalogs</string>
         <string>category</string>
         <string>CFBundleIdentifier</string>
@@ -91,6 +94,7 @@
         <string>name</string>
         <string>nopkg</string>
         <string>notes</string>
+        <string>ok_label</string>
         <string>OnDemand</string>
         <string>optional</string>
         <string>os_version</string>

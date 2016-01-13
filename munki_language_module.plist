@@ -69,6 +69,7 @@
         <string>go-w</string>
         <string>group</string>
         <string>icon_name</string>
+        <string>icon_hash</string>
         <string>installable_condition</string>
         <string>installcheck_script</string>
         <string>installed_size</string>
@@ -119,7 +120,7 @@
         <string>requirelogout</string>
         <string>requirerestart</string>
         <string>requires</string>
-        <string>restartaction</string>
+        <string>RestartAction</string>
         <string>root</string>
         <string>serialnumber</string>
         <string>source_item</string>

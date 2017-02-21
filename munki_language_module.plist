@@ -166,7 +166,7 @@
 	<key>BBLMLanguageCode</key>
 	<string>MkPi</string>
 	<key>BBLMLanguageDisplayName</key>
-	<string>Munki Pkgsinfo</string>
+	<string>Munki Pkginfo</string>
 	<key>BBLMScansFunctions</key>
 	<true/>
 	<key>BBLMSuffixMap</key>

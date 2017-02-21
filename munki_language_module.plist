@@ -44,6 +44,7 @@
         <string>attributeSetting</string>
         <string>autoremove</string>
         <string>blocking_applications</string>
+        <string>bundleids</string>
         <string>cancel_label</string>
         <string>catalogs</string>
         <string>category</string>
@@ -115,6 +116,7 @@
         <string>preuninstall_script</string>
         <string>production</string>
         <string>receipts</string>
+        <string>removal_days</string>
         <string>remove_copied_items</string>
         <string>removepackages</string>
         <string>requirelogout</string>
@@ -138,6 +140,7 @@
         <string>uninstallcheck_script</string>
         <string>uninstaller_item_location</string>
         <string>uninstallxml</string>
+        <string>unused_software_removal_info</string>
         <string>update_for</string>
         <string>user</string>
         <string>version_comparison_key</string>

@@ -63,6 +63,7 @@
         <string>development</string>
         <string>display_name</string>
         <string>enabled</string>
+        <string>featured</string>
         <string>filename</string>
         <string>force_install_after_date</string>
         <string>forced_install</string>
